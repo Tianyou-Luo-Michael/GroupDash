@@ -1,3 +1,3 @@
 logging:
   level:
-    org.apache.coyote.http11.Http11InputBuffer:  # Incoming HTTP requests
+    org.apache.coyote.http11.Http11InputBuffer: Trace # Incoming HTTP requests
